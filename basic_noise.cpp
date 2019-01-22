@@ -192,7 +192,7 @@ int main(){
 
 	cout<<"Display settings: "<< sf::VideoMode::getDesktopMode().width << ", " << sf::VideoMode::getDesktopMode().height<<endl;
 
-   sf::RenderWindow window(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "My window",sf::Style::Default, settings);
+   sf::RenderWindow window(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "Perlin Noise",sf::Style::Default, settings);
    
    ReferenceFrame RF(0, WINDOW_HEIGHT, 10);
 
