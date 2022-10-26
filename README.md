@@ -7,4 +7,4 @@ This is just a code example. It shows
 
 - Multithreading
 
-![Example2](http://46.32.229.68/img/perlin_noise.png)
+![Example2](http://103.102.44.126/img/perlin_noise.png)
